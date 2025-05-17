@@ -1,0 +1,13 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+pandas
+pymongo==4.3.3
+python-multipart==0.0.6
+detoxify==0.5.1
+selenium==4.9.1
+beautifulsoup4==4.12.2
+webdriver-manager==3.8.6
+requests==2.30.0
+pydantic==1.10.7
+aiofiles==23.1.0
+pip install numpy==1.23.5
