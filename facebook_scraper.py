@@ -156,8 +156,8 @@ class FacebookScraper:
 
 def main():
     
-    email = "tyassin375@gmail.com" 
-    password = "58998503"  
+    email = email
+    password = mdp  
     
     scraper = FacebookScraper(email, password)
     
